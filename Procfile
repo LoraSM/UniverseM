@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run handson_cr.py
+web: sh setup.sh && streamlit run handons_cr.py
